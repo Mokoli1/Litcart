@@ -1,4 +1,4 @@
-# Shopping Advisor
+# Shopping Advisor (LitCart)
 
 **The only shopping app that calculates your true total cost** - because the cheapest groceries aren't always the best deal when you factor in gas, time, and membership fees.
 
@@ -39,8 +39,8 @@ shopping-advisor/
 
 ## Current Status
 
-- [ ] Project setup and structure
-- [ ] Firebase authentication setup
+- [x] Project setup and structure
+- [x] Firebase authentication setup
 - [ ] Local database setup
 - [ ] Backend API development
 - [ ] Mobile app development
@@ -50,4 +50,8 @@ shopping-advisor/
 
 Project Lead: [Your Name]  
 Start Date: [Current Date]  
-Target Launch: [6 months from now] 
+Target Launch: [6 months from now]
+
+## Repository
+
+🔗 **GitHub**: https://github.com/Mokoli1/Litcart
